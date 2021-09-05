@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.1.0",
     "express": "^4.16.4",
+    "fontawesome": "^5.6.3",
     "uniqid": "^5.4.0"
   }
 }
