@@ -18,8 +18,9 @@ The days of taking pen to paper is nearly extinct. It's all about working smarte
 <br>
 
 ## **Project Demo** 
-This [demo video](https://github.com/SheylaPopovich/Team_Profile_Generator/blob/main/assets/team_profile_generator_demo.gif) will walk you through the application and its usage.
-![alt text](https://user-images.githubusercontent.com/84256748/132050856-1e175010-b43e-4669-a615-4a3f29ece45e.png)
+This [demo video](https://github.com/SheylaPopovich/Team_Profile_Generator/blob/main/assets/team_profile_generator_demo.gif) will walk you through the application and its functionality:.
+![alt text](https://github.com/SheylaPopovich/scribe-life-made-easy/blob/main/Assets/note-taker-landingpage.png)
+![alt text](https://github.com/SheylaPopovich/scribe-life-made-easy/blob/main/Assets/note-taker-savedpage.png)
 <br>
 <br>
 
