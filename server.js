@@ -3,7 +3,6 @@ const express = require('express');
 const api = require('./routes/apiroutes.js');
 const html = require('./routes/html');
 const PORT = process.env.PORT || 3001;
-// const deleteNotes = require('./public/assets/js/index');
 
 
 
@@ -21,9 +20,7 @@ app.use(html);
 
 
 
-//attempting delete
-// app.delete('/api/notes/:id', (req, res) => {
-  
+
   
 
 

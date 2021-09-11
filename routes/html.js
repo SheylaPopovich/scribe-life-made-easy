@@ -6,6 +6,7 @@ const path = require('path');
 
 // GET Route for homepage
 app.get('/notes', (req, res) =>
+
   res.sendFile(path.join(__dirname, '../public/notes.html'))
 );
 
