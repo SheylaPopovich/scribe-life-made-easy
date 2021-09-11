@@ -5,6 +5,12 @@ body {
   padding: 0;
 }
 
+.bg-dark {
+  background-color: #0a138a !important;
+}
+
+
+
 .save-note {
   display: none;
 }
