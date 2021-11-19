@@ -14,6 +14,8 @@ The days of taking pen to paper is nearly extinct. It's all about working smarte
 <br>
 
 ## **Application** 
+https://sheylapopovich.github.io/scribe-life-made-easy/
+
 The following images show the web application's appearance and functionality:
 ![alt text](https://github.com/SheylaPopovich/scribe-life-made-easy/blob/main/Assets/note-taker-landingpage.png)
 <br>
